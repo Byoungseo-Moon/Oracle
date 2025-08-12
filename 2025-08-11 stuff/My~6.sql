@@ -1,0 +1,5 @@
+-- SELECT문법 SELECT FROM TABLE명 WHERE 조건
+-- UPDATE문법 UPDATE TABLE명 SET 변경내용 WHERE조건
+-- INSERT문법 INSERT INTO TABLE명 VALUES (컬럼에 들어갈 값)
+--           모든 컬럼에 값을 삽입하는 경우 컬럼명 생략가능
+-- DELETE문법 DELETE FROM TABLE명 WHERE조건
